@@ -53,13 +53,15 @@ URL: https://play.google.com/store/apps/details?id=com.co.swing.day_rider
     이를 해결하기 위해 다음과 같은 기능을 추가 구현하였습니다
     
     - 기본 주소지, 추가 주소지 추가, 수정, 삭제 기능 구현
-
-        <p align="left">
-            <img src="alley_picture/Alley.png" width="24%" height="20%">
-            <img src="alley_picture/default.jpeg" width="24%" height="20%">
-            <img src="alley_picture/search.jpeg" width="24%" height="20%">
-        </p>   
-        
+        <details>
+                <summary>구현 화면(토글 클릭시 보입니다!)</summary>
+                <div markdown="1">  
+                    <p align="left">
+                        <img src="alley_picture/Alley.png" width="24%" height="20%">
+                        <img src="alley_picture/default.jpeg" width="24%" height="20%">
+                        <img src="alley_picture/search.jpeg" width="24%" height="20%">
+                    </p>   
+                <br>
     - 다음 주소 API를 이용해 선택한 주소지의 정보를 서버로 보내서 저장
     - 추가 주소지 입력 및 수정 삭제 기능 구현
         - `XML` 이용한 UI layout 구현

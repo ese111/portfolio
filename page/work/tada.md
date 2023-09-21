@@ -27,7 +27,7 @@ Tags: Android, Jetpack, Kotlin
 - SWING 안드로이드 앱에서 타다 택시 호출, 결제까지 모든 기능 구현
 - 안드로이드 1명 IOS 2명 풀스택 1명이 함께 진행
 
-![tada_2.png](tada_pic/tada_2.png)
+<img src="tada_pic/tada_2.png" width="500" height="500">
 
 ---
 
