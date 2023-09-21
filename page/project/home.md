@@ -1,8 +1,8 @@
 # 집넘기기 - 집 양도/양수를 중개하는 앱
 
-Created: July 25, 2022 → August 26, 2022
-Tags: Android, Jetpack, Kotlin
-url: https://github.com/jminie-o8o/Home-Rent-App/tree/android_develop
+Created: July 25, 2022 → August 26, 2022<br>
+Tags: Android, Jetpack, Kotlin<br>
+url: https://github.com/jminie-o8o/Home-Rent-App/tree/android_develop<br>
 
 ### 집 양도 플랫폼 안드로이드 앱 개발
 

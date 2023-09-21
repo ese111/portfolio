@@ -1,6 +1,6 @@
 # SWING 라이드 선물하기 기능 개발
 
-Created: June 5, 2023 → July 4, 2023
+Time: 2023-06-05 → 2023-07-04<br>
 Tags: Android, Jetpack, Kotlin
 
 <aside>

@@ -1,7 +1,7 @@
 # ALLEY 운영 및 유지보수
 
-Created: December 5, 2022 → January 13, 2023
-Tags: Android, Coroutine, Flow, Jetpack, MVI, REST API, XML
+Time: 2022-12-05 → 2023-01-13<br>
+Tags: Android, Coroutine, Flow, Jetpack, MVI, REST API, XML<br>
 URL: https://play.google.com/store/apps/details?id=com.co.swing.day_rider
 
 <aside>

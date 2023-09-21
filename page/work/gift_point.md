@@ -1,6 +1,6 @@
 # SWING 포인트 선물하기
 
-Created: August 8, 2023 → August 30, 2023
+Time: 2023-08-08 → 2023-08-30<br>
 Tags: Android, Jetpack, Kotlin
 
 <aside>

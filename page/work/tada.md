@@ -1,6 +1,6 @@
 # SWING TADA 택시 연동 프로젝트
 
-time: 2023-07-10 → 2023-08-07<br>
+Time: 2023-07-10 → 2023-08-07<br>
 Tags: Android, Jetpack, Kotlin
 
 <aside>

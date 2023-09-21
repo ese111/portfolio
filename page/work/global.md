@@ -1,6 +1,6 @@
 # SWING 외국인 유저를 위한 기능 추가
 
-Created: March 17, 2023 → June 9, 2023
+Time: 2023-03-17 → 2023-06-09<br>
 Tags: Android, Jetpack, Kotlin
 
 <aside>

@@ -1,7 +1,7 @@
 # SWING 운영 개선
 
-Created: November 14, 2022
-Tags: Android, CameraX, Jetpack, Kotlin, ML kit, WorkManager
+Time: 2022-11-14 <br>
+Tags: Android, CameraX, Jetpack, Kotlin, ML kit, WorkManager <br>
 URL: https://play.google.com/store/apps/details?id=com.co.swing&hl=ko
 
 <aside>

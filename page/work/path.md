@@ -1,6 +1,6 @@
 # SWING 길찾기 기능 개발
 
-Created: April 10, 2023 → June 9, 2023
+Time: 2023-04-10 → 2023-06-09<br>
 Tags: Android, Jetpack, Kotlin
 
 <aside>

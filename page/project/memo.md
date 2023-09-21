@@ -1,8 +1,8 @@
 # Manual Memo - 사진을 찍어 메모를 생성하는 앱
 
-Created: July 23, 2022 → August 26, 2022
-Tags: Android, Compose, Kotlin
-url: https://github.com/ese111/ScannerMemo
+Created: July 23, 2022 → August 26, 2022<br>
+Tags: Android, Compose, Kotlin<br>
+url: https://github.com/ese111/ScannerMemo<br>
 
 ### 사진에서 텍스트를 추출해서 메모하는 메모장 앱 (기여도 100%)
 
