@@ -48,7 +48,7 @@ Tags: Android, Jetpack, Kotlin
                 - 이미 회원 체크가 된 연락처는 다시 체크하지 안해서 서버의 부하를 줄임
         - 전화번호를 키값으로하여 응답이오면 LinkedMap에서 바로 해당 번호의 상태를 변경
             <details>
-                <summary>LinkedMap 사용 이유</summary>
+                <summary>LinkedHashMap 사용 이유</summary>
                 <div markdown="1">    
 
                 - Map을 사용한 이유
@@ -56,7 +56,7 @@ Tags: Android, Jetpack, Kotlin
                     - List로 보관하면 응답으로 온 데이터들을 찾기 위해서 전체 순회를 해야함
                     - Map을 이용해서 전화번호를 키값으로 응답으로 온 데이터만 바로 변경
                 
-                - 왜 LinkedMap?
+                - 왜 LinkedHashMap?
                 
                     - 한글 → 영어 → 이외 순으로 정렬을 해야하는 요구 사항
                     - HashMap이나 그냥 Map은 들어가는 순서가 보장되지 않음
