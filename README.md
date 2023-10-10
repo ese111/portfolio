@@ -1,4 +1,4 @@
-# 안녕하세요 박흥수 입니다
+# 안녕하세요 Android 개발자 박흥수 입니다
 
 <img src="page/me.jpeg" width="230" height="300">
 
